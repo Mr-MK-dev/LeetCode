@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "name": "sum_of_1d_array",
+  "version": "1.0.0",
+  "main": "mk.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon mk.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
